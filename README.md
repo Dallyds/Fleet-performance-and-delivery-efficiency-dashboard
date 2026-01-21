@@ -18,8 +18,8 @@ Excel / CSV Dataset
 
 ## 📊 Dashboards
 🔹 Main Dashboard
-<img width="1192" height="697" alt="image" src="https://github.com/user-attachments/assets/3969c2aa-620a-40db-ba09-5de36ac54d2a" />
-
+<img width="1212" height="700" alt="image" src="https://github.com/user-attachments/assets/bcf78b37-a7c5-4ebe-8b45-1b6da654d83b" />
+<img width="1212" height="705" alt="image" src="https://github.com/user-attachments/assets/7b615014-4795-4aa0-bcff-89964d7e01dd" />
 ## Key Insights:
 
 Overall Cost per KM
