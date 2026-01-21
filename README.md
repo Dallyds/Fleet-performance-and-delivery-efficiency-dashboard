@@ -1,4 +1,4 @@
-🚚 AI-Powered Fleet Performance & Delivery Efficiency Dashboard
+#** 🚚 AI-Powered Fleet Performance & Delivery Efficiency Dashboard**
 📌 Project Overview
 
 This project presents an AI-Powered Fleet Performance & Delivery Efficiency Dashboard built using Power BI.
@@ -103,7 +103,3 @@ This dashboard provides a data-driven view of fleet performance, enabling better
 📌 Author
 
 Dally DS
-
-oard.png
-
-Page1_Dashboard.png
