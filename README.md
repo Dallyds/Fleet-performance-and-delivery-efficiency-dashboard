@@ -18,6 +18,7 @@ Excel / CSV Dataset
 
 ## 📊 Dashboards
 🔹 Main Dashboard
+<img width="1192" height="697" alt="image" src="https://github.com/user-attachments/assets/3969c2aa-620a-40db-ba09-5de36ac54d2a" />
 
 ## Key Insights:
 
@@ -100,6 +101,6 @@ Designed a visually consistent and user-friendly dashboard
 
 This dashboard provides a data-driven view of fleet performance, enabling better decision-making related to cost optimization, vehicle utilization, and delivery efficiency.
 
-📌 Author
+**📌 Author**
 
 Dally DS
